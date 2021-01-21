@@ -1,0 +1,55 @@
+body{
+     background-image:url("simulated_bh.jpg");
+    }
+
+h1{
+   text-transform: uppercase;
+   color:chartreuse;
+   text-align:center;
+  }
+
+B{
+  color:gainsboro;
+  text-align:left;
+  font-size: 150%;
+ }
+
+strong{
+  color: cyan;
+  font-size: 150%;
+ }
+
+a:link, a:visited{
+                  color:chartreuse;
+                  text-decoration:underline;
+                  font-size:125%;
+                 }
+
+a:link:active, a:visited:active{
+                                color:slategray;
+                                font-size:125%;
+                               }
+
+ul{
+   color:slategrey;
+   font-size:100%
+  }
+
+li{
+   color: #FF6347;
+   font-size: 200%
+  }
+
+tt{
+   color: white;
+   font-size: 100%;
+   padding: 10px;
+}
+
+img{
+    padding: 10px;
+}
+
+u{
+  color: lightblue;
+}
